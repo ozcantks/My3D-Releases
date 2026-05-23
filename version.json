@@ -1,0 +1,7 @@
+﻿{
+    "AndroidUrl":  "https://github.com/ozcantks/My3D-Releases/releases/download/v1.4.2/My3DPrintManager-Android-v1.4.2.apk",
+    "Mandatory":  true,
+    "WindowsUrl":  "https://github.com/ozcantks/My3D-Releases/releases/download/v1.4.2/My3DPrintManager-Windows-v1.4.2-Setup.exe",
+    "ReleaseNotes":  "Dagitim kanali guvenli sekilde public depoya (My3D-Releases) tasindi. Bu guncelleme zorunludur.",
+    "Version":  "1.4.2"
+}
