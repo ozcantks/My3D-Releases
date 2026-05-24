@@ -1,7 +1,7 @@
 ﻿{
-    "AndroidUrl":  "https://github.com/ozcantks/My3D-Releases/releases/download/v1.4.3/My3DPrintManager-Android-v1.4.3.apk",
+    "AndroidUrl":  "https://github.com/ozcantks/My3D-Releases/releases/download/v1.4.4/My3DPrintManager-Android-v1.4.4.apk",
     "Mandatory":  true,
-    "WindowsUrl":  "https://github.com/ozcantks/My3D-Releases/releases/download/v1.4.3/My3DPrintManager-Windows-v1.4.3-Setup.exe",
-    "ReleaseNotes":  "Veritabani baglanti hatasi (Token zaman asimi) giderildi ve guncelleme zorunlu kilindi.",
-    "Version":  "1.4.3"
+    "WindowsUrl":  "https://github.com/ozcantks/My3D-Releases/releases/download/v1.4.4/My3DPrintManager-Windows-v1.4.4-Setup.exe",
+    "ReleaseNotes":  "Yeni Urun Ekle sayfasindaki kutu icindeki yazi gorunurlugu duzeltildi.",
+    "Version":  "1.4.4"
 }
