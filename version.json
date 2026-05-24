@@ -1,7 +1,7 @@
 ﻿{
-    "AndroidUrl":  "https://github.com/ozcantks/My3D-Releases/releases/download/v1.5.0/My3DPrintManager-Android-v1.5.0.apk",
+    "AndroidUrl":  "https://github.com/ozcantks/My3D-Releases/releases/download/v1.6.0/My3DPrintManager-Android-v1.6.0.apk",
     "Mandatory":  true,
-    "WindowsUrl":  "https://github.com/ozcantks/My3D-Releases/releases/download/v1.5.0/My3DPrintManager-Windows-v1.5.0-Setup.exe",
-    "ReleaseNotes":  "Profil bilgileri, yazici ayarlari ve uygulama tema secimini (koyu/acik) iceren yeni Ayarlar sayfasi eklendi.",
-    "Version":  "1.5.0"
+    "WindowsUrl":  "https://github.com/ozcantks/My3D-Releases/releases/download/v1.6.0/My3DPrintManager-Windows-v1.6.0-Setup.exe",
+    "ReleaseNotes":  "Fiyat Hesaplama sayfasi gelistirildi. Ek malzeme gideri, hedeflenen kar orani alanlari ve detayli fiyat-maliyet kirilimlari eklendi.",
+    "Version":  "1.6.0"
 }
