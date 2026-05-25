@@ -1,7 +1,7 @@
 ﻿{
-    "AndroidUrl":  "https://github.com/ozcantks/My3D-Releases/releases/download/v1.7.0/My3DPrintManager-Android-v1.7.0.apk",
+    "AndroidUrl":  "https://github.com/ozcantks/My3D-Releases/releases/download/v1.8.0/My3DPrintManager-Android-v1.8.0.apk",
     "Mandatory":  false,
-    "WindowsUrl":  "https://github.com/ozcantks/My3D-Releases/releases/download/v1.7.0/My3DPrintManager-Windows-v1.7.0-Setup.exe",
-    "ReleaseNotes":  "Saatlik baski ucreti, Filament fiyatlari yonetimi, giris sayfasinda Beni Hatirla, kayit sayfasinda Ad/Soyad alanlari, Windows menu kaybolma bugi duzeltmesi, Dashboard ve Urun yukleme sayfalari icin karanlik mod destegi eklendi.",
-    "Version":  "1.7.0"
+    "WindowsUrl":  "https://github.com/ozcantks/My3D-Releases/releases/download/v1.8.0/My3DPrintManager-Windows-v1.8.0-Setup.exe",
+    "ReleaseNotes":  "Guncelleme denetleme butonu kaldirilarak yerine Gorusleriniz sayfasi eklendi. Gorusleriniz sayfasindan iletilen notlar dogrudan gelistiriciye ulasmaktadir.",
+    "Version":  "1.8.0"
 }
