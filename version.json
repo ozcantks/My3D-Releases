@@ -1,7 +1,7 @@
 ﻿{
-    "AndroidUrl":  "https://github.com/ozcantks/My3D-Releases/releases/download/v1.9.6/My3DPrintManager-Android-v1.9.6.apk",
+    "AndroidUrl":  "https://github.com/ozcantks/My3D-Releases/releases/download/v1.9.7/My3DPrintManager-Android-v1.9.7.apk",
     "Mandatory":  false,
-    "WindowsUrl":  "https://github.com/ozcantks/My3D-Releases/releases/download/v1.9.6/My3DPrintManager-Windows-v1.9.6-Setup.exe",
-    "ReleaseNotes":  "Görüş/öneri gönderimindeki Firebase Database yetkilendirme/izin hatası çözüldü.",
-    "Version":  "1.9.6"
+    "WindowsUrl":  "https://github.com/ozcantks/My3D-Releases/releases/download/v1.9.7/My3DPrintManager-Windows-v1.9.7-Setup.exe",
+    "ReleaseNotes":  "Yönetici paneline kayıtlı kullanıcı sayısı ve geri bildirimler eklendi. Premium sekmesi menüde pasif yapıldı.",
+    "Version":  "1.9.7"
 }
