@@ -1,7 +1,7 @@
 ﻿{
-    "AndroidUrl":  "https://github.com/ozcantks/My3D-Releases/releases/download/v1.9.4/My3DPrintManager-Android-v1.9.4.apk",
+    "AndroidUrl":  "https://github.com/ozcantks/My3D-Releases/releases/download/v1.9.5/My3DPrintManager-Android-v1.9.5.apk",
     "Mandatory":  false,
-    "WindowsUrl":  "https://github.com/ozcantks/My3D-Releases/releases/download/v1.9.4/My3DPrintManager-Windows-v1.9.4-Setup.exe",
-    "ReleaseNotes":  "Firebase servis anahtarı kayıt ve oturum yenileme hatası düzeltildi.",
-    "Version":  "1.9.4"
+    "WindowsUrl":  "https://github.com/ozcantks/My3D-Releases/releases/download/v1.9.5/My3DPrintManager-Windows-v1.9.5-Setup.exe",
+    "ReleaseNotes":  "FCM v1 REST API bildirim gövdesindeki priority alanı hatası giderildi.",
+    "Version":  "1.9.5"
 }
