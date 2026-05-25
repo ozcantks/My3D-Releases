@@ -1,7 +1,7 @@
 ﻿{
-    "AndroidUrl":  "https://github.com/ozcantks/My3D-Releases/releases/download/v1.9.3/My3DPrintManager-Android-v1.9.3.apk",
+    "AndroidUrl":  "https://github.com/ozcantks/My3D-Releases/releases/download/v1.9.4/My3DPrintManager-Android-v1.9.4.apk",
     "Mandatory":  false,
-    "WindowsUrl":  "https://github.com/ozcantks/My3D-Releases/releases/download/v1.9.3/My3DPrintManager-Windows-v1.9.3-Setup.exe",
-    "ReleaseNotes":  "Google Services Entegrasyonu ile Push Bildirimleri Calisir Hale Getirildi",
-    "Version":  "1.9.3"
+    "WindowsUrl":  "https://github.com/ozcantks/My3D-Releases/releases/download/v1.9.4/My3DPrintManager-Windows-v1.9.4-Setup.exe",
+    "ReleaseNotes":  "Firebase servis anahtarı kayıt ve oturum yenileme hatası düzeltildi.",
+    "Version":  "1.9.4"
 }
