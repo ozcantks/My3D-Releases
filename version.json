@@ -1,7 +1,7 @@
 ﻿{
-    "AndroidUrl":  "https://github.com/ozcantks/My3D-Releases/releases/download/v1.9.1/My3DPrintManager-Android-v1.9.1.apk",
+    "AndroidUrl":  "https://github.com/ozcantks/My3D-Releases/releases/download/v1.9.2/My3DPrintManager-Android-v1.9.2.apk",
     "Mandatory":  false,
-    "WindowsUrl":  "https://github.com/ozcantks/My3D-Releases/releases/download/v1.9.1/My3DPrintManager-Windows-v1.9.1-Setup.exe",
-    "ReleaseNotes":  "Yonetici Paneli Firebase Yetki Hatasi Giderildi ve Push Bildirim Entegrasyonu",
-    "Version":  "1.9.1"
+    "WindowsUrl":  "https://github.com/ozcantks/My3D-Releases/releases/download/v1.9.2/My3DPrintManager-Windows-v1.9.2-Setup.exe",
+    "ReleaseNotes":  "Detayli Hata Raporlama Destegi Eklendi ve Push Bildirim Entegrasyonu",
+    "Version":  "1.9.2"
 }
