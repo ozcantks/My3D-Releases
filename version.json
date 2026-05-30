@@ -1,7 +1,7 @@
 ﻿{
-    "AndroidUrl":  "https://github.com/ozcantks/My3D-Releases/releases/download/v2.1/Fabriq-Android-v2.1.apk",
+    "AndroidUrl":  "https://github.com/ozcantks/My3D-Releases/releases/download/v2.2/Fabriq-Android-v2.2.apk",
     "Mandatory":  false,
-    "WindowsUrl":  "https://github.com/ozcantks/My3D-Releases/releases/download/v2.1/Fabriq-Windows-v2.1-Setup.exe",
-    "ReleaseNotes":  "v2.1 - Otomatik güncelleme testi (sadece Windows)",
-    "Version":  "2.1"
+    "WindowsUrl":  "https://github.com/ozcantks/My3D-Releases/releases/download/v2.2/Fabriq-Windows-v2.2-Setup.exe",
+    "ReleaseNotes":  "v2.2 - Sifremi Unuttum ozelligi ve genel iyilestirmeler",
+    "Version":  "2.2"
 }
