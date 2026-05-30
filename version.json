@@ -1,7 +1,7 @@
 ﻿{
-    "AndroidUrl":  "https://github.com/ozcantks/My3D-Releases/releases/download/v2.2/Fabriq-Android-v2.2.apk",
+    "AndroidUrl":  "https://github.com/ozcantks/My3D-Releases/releases/download/v2.3/Fabriq-Android-v2.3.apk",
     "Mandatory":  false,
-    "WindowsUrl":  "https://github.com/ozcantks/My3D-Releases/releases/download/v2.2/Fabriq-Windows-v2.2-Setup.exe",
-    "ReleaseNotes":  "v2.2 - Sifremi Unuttum ozelligi ve genel iyilestirmeler",
-    "Version":  "2.2"
+    "WindowsUrl":  "https://github.com/ozcantks/My3D-Releases/releases/download/v2.3/Fabriq-Windows-v2.3-Setup.exe",
+    "ReleaseNotes":  "v2.3 - Sifremi Unuttum ozelligi eklendi. Kullanicilar e-posta ile sifre sifirlayabilir.",
+    "Version":  "2.3"
 }
