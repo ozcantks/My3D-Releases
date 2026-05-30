@@ -1,7 +1,7 @@
 ﻿{
-    "AndroidUrl":  "https://github.com/ozcantks/My3D-Releases/releases/download/v2.0/My3DPrintManager-Android-v2.0.apk",
+    "AndroidUrl":  "https://github.com/ozcantks/My3D-Releases/releases/download/v2.0/Fabriq-Android-v2.0.apk",
     "Mandatory":  false,
-    "WindowsUrl":  "https://github.com/ozcantks/My3D-Releases/releases/download/v2.0/My3DPrintManager-Windows-v2.0-Setup.exe",
-    "ReleaseNotes":  "Fabriq update, centering fixes, dynamic announcements, and platform-specific update controls",
+    "WindowsUrl":  "https://github.com/ozcantks/My3D-Releases/releases/download/v2.0/Fabriq-Windows-v2.0-Setup.exe",
+    "ReleaseNotes":  "Fabriq logo and brand update",
     "Version":  "2.0"
 }
