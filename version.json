@@ -1,7 +1,7 @@
 ﻿{
-    "AndroidUrl":  "https://github.com/ozcantks/My3D-Releases/releases/download/v1.9.7/My3DPrintManager-Android-v1.9.7.apk",
+    "AndroidUrl":  "https://github.com/ozcantks/My3D-Releases/releases/download/v2.0/My3DPrintManager-Android-v2.0.apk",
     "Mandatory":  false,
-    "WindowsUrl":  "https://github.com/ozcantks/My3D-Releases/releases/download/v1.9.7/My3DPrintManager-Windows-v1.9.7-Setup.exe",
-    "ReleaseNotes":  "Yönetici paneline kayıtlı kullanıcı sayısı ve geri bildirimler eklendi. Premium sekmesi menüde pasif yapıldı.",
-    "Version":  "1.9.7"
+    "WindowsUrl":  "https://github.com/ozcantks/My3D-Releases/releases/download/v2.0/My3DPrintManager-Windows-v2.0-Setup.exe",
+    "ReleaseNotes":  "Fabriq update, centering fixes, dynamic announcements, and platform-specific update controls",
+    "Version":  "2.0"
 }
